@@ -1,0 +1,5 @@
+[
+  {"id":"BK-201","item_id":"beach-chair-01","quantity":6,"start":"2026-11-10","end":"2026-11-12","status":"confirmed"},
+  {"id":"BK-202","item_id":"beach-chair-01","quantity":8,"start":"2026-11-11","end":"2026-11-13","status":"confirmed"},
+  {"id":"BK-203","item_id":"umbrella-02","quantity":4,"start":"2026-11-10","end":"2026-11-11","status":"confirmed"}
+]
